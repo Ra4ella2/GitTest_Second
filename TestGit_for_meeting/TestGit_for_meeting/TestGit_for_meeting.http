@@ -1,0 +1,6 @@
+@TestGit_for_meeting_HostAddress = http://localhost:5011
+
+GET {{TestGit_for_meeting_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
